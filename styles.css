@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #283149;
+  background-image: linear-gradient(to right, rgb(68, 0, 255), rgb(255, 162, 0));
 }
 
 h1 {
@@ -65,12 +65,12 @@ footer {
 
 .drum {
   outline: none;
-  border: 10px solid #404B69;
+  border: 10px solid #333;
   font-size: 5rem;
   font-family: 'Arvo', cursive;
   line-height: 2;
   font-weight: 900;
-  color: #DA0463;
+  color: #333;
   text-shadow: 3px 0 #DBEDF3;
   border-radius: 15px;
   display: inline-block;
